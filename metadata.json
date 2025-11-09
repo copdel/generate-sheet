@@ -1,0 +1,5 @@
+{
+  "name": "AI Sprite Sheet Generator",
+  "description": "An application that allows users to upload an image of a character and uses the Gemini API to generate a walking animation sprite sheet for game development.",
+  "requestFramePermissions": []
+}
